@@ -36,7 +36,7 @@ This repository contains a series of Jupyter notebooks that demonstrate various 
   - Function Optimization
   - K-means Clustering
 
-### 5. [TSP_GA_PMX.ipynb](TSP_GA_PMX.ipynb)
+### 5. [TSP_GA_PMX.ipynb](TSP_GA_PWM.ipynb)
 - **Objective**: Solve the **Traveling Salesman Problem (TSP)** using **Genetic Algorithms (GA)** with **Partially Matched Crossover (PMX)**.
 - **Description**: This notebook applies Genetic Algorithms to solve TSP with a specific crossover method known as Partially Matched Crossover (PMX). It highlights how PMX can preserve relative positions between cities during crossover to maintain a valid solution.
 - **Key Concepts**:
