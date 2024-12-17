@@ -1,4 +1,4 @@
-# Optimization Algorithms
+# Nature Inspired Optimization Algorithms
 
 This repository contains a series of Jupyter notebooks that demonstrate various optimization techniques and algorithms. Each notebook addresses a different problem using heuristic or evolutionary algorithms.
 
